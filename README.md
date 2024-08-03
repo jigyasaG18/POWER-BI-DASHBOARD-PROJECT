@@ -11,7 +11,7 @@ This Power BI dashboard project aims to provide insights into ecommerce sales da
 
 **Data Sources:**
 
-* Ecommerce sales data (extracted from Orders and Details CSV file).
+* Ecommerce sales data (extracted from Orders Excel file and Details CSV file).
 
 **Technical Requirements:**
 
