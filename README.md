@@ -35,6 +35,11 @@ This Power BI dashboard project aims to provide insights into ecommerce sales da
 * Customer acquisition cost
 * Customer retention rate
 
+**Project Demo:**
+
+![image](https://github.com/user-attachments/assets/4005cc7d-4d0f-4bdc-b2fa-5aa61fe1a5ab)
+
+
 **License:**
 
 This project is licensed under the MIT License.
